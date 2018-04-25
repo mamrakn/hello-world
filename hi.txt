@@ -1,0 +1,3 @@
+Hello world, I am learning Git to better track my work
+I have learned something about Git
+Here is another change
